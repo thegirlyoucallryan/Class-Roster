@@ -1,0 +1,42 @@
+[
+    {
+        "name" : "Ryan",
+        "classType" : "tumbling",
+        "rsvp" : false
+    },
+    {
+        "name" : "Trish",
+        "classType" : "Silks",
+        "rsvp" : true
+    },
+    {
+        "name" : "Viv",
+        "classType" : "lyra",
+        "rsvp" : true
+    },
+    {
+        "name" : "Toni",
+        "classType" : "tumbling",
+        "rsvp" : true
+    },
+    {
+        "name" : "Mimi",
+        "classType" : "Silks",
+        "rsvp" : true
+    },
+    {
+        "name" : "Kay",
+        "classType" : "Silks",
+        "rsvp" : true
+    },
+    {
+        "name" : "Victoria",
+        "classType" : "Silks",
+        "rsvp" :true
+    },
+    {
+        "name" : "Jessie",
+        "classType" : "Silks",
+        "rsvp" : false
+    }
+]

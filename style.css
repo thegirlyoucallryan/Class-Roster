@@ -1,0 +1,78 @@
+.output{
+    color: grey;
+    border: 5px solid black;
+    width: 30%;
+}
+
+.rsvp{
+   color: black;
+  
+   
+}
+
+.noRSVP{
+    
+   color: red;
+
+}
+
+*{
+    font-size: 22px;
+    padding: 6px;
+}
+
+h1{
+    font-size: 32px;
+    color: rgb(184, 16, 16);
+}
+
+
+.box{
+    padding: 10px;
+    width: 93%;
+    margin: 3px 0;
+    border: 1px solid #ddd;
+    box-shadow: 1px 1px .4px rgba(151, 100, 42, 0.616) ;
+}
+
+.box span{
+    width: 20px;
+    height: 20px;
+    border: 1px solid rgba(255, 0, 0, 0.616);
+    padding: 2.5px;
+    border-radius: 2px;
+    color: rgba(255, 0, 0, 0.568);
+    float: right;
+    text-align: center;
+}
+
+.box span:hover{
+    cursor: pointer;
+    color: red;
+    width: 22px;
+}
+
+.notconfirmed{
+    color: rgb(112, 108, 108)
+}
+
+button{
+    color: white;
+    background-color: black;
+    border: 1px solid black;
+    margin: 4px;
+    border-radius: 7px;
+    padding: 17px;
+    box-shadow: 2px 2px 4px lightslategrey;
+
+}
+
+button:hover{
+    padding: 18px;
+    opacity: .9;
+    color: red;
+   
+}
+button:active{
+    box-shadow: 1px 1px 1px lightslategrey;
+}
